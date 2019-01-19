@@ -39,7 +39,7 @@ namespace forwardDojo.Models {
         [Display(Name = "Confirm Password:")]
         public string PasswordC { get; set; }
 
-//===========  USERS JOBS SAVED/INTRESTED  ===========
+//===========  USERS JOBS SAVED/INTERESTED  ===========
         public List<Joined> Joineds { get; set; }
         public User () {
                 Joineds = new List<Joined> ();

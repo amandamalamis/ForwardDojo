@@ -20,3 +20,14 @@ C:\Users\mdchf\Desktop\Coding Dojo\forwardDojo\forwardDojo\obj\Debug\netcoreapp2
 C:\Users\mdchf\Desktop\Coding Dojo\forwardDojo\forwardDojo\obj\Debug\netcoreapp2.0\forwardDojo.AssemblyInfo.cs
 C:\Users\mdchf\Desktop\Coding Dojo\forwardDojo\forwardDojo\obj\Debug\netcoreapp2.0\forwardDojo.dll
 C:\Users\mdchf\Desktop\Coding Dojo\forwardDojo\forwardDojo\obj\Debug\netcoreapp2.0\forwardDojo.pdb
+C:\Users\Amanda\Documents\GitHub\ForwardDojo\bin\Debug\netcoreapp2.0\forwardDojo.deps.json
+C:\Users\Amanda\Documents\GitHub\ForwardDojo\bin\Debug\netcoreapp2.0\forwardDojo.runtimeconfig.json
+C:\Users\Amanda\Documents\GitHub\ForwardDojo\bin\Debug\netcoreapp2.0\forwardDojo.runtimeconfig.dev.json
+C:\Users\Amanda\Documents\GitHub\ForwardDojo\bin\Debug\netcoreapp2.0\forwardDojo.dll
+C:\Users\Amanda\Documents\GitHub\ForwardDojo\bin\Debug\netcoreapp2.0\forwardDojo.pdb
+C:\Users\Amanda\Documents\GitHub\ForwardDojo\obj\Debug\netcoreapp2.0\forwardDojo.csprojAssemblyReference.cache
+C:\Users\Amanda\Documents\GitHub\ForwardDojo\obj\Debug\netcoreapp2.0\forwardDojo.csproj.CoreCompileInputs.cache
+C:\Users\Amanda\Documents\GitHub\ForwardDojo\obj\Debug\netcoreapp2.0\forwardDojo.AssemblyInfoInputs.cache
+C:\Users\Amanda\Documents\GitHub\ForwardDojo\obj\Debug\netcoreapp2.0\forwardDojo.AssemblyInfo.cs
+C:\Users\Amanda\Documents\GitHub\ForwardDojo\obj\Debug\netcoreapp2.0\forwardDojo.dll
+C:\Users\Amanda\Documents\GitHub\ForwardDojo\obj\Debug\netcoreapp2.0\forwardDojo.pdb
